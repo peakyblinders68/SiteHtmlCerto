@@ -1,0 +1,63 @@
+body {
+  background: #0D5363;
+}
+
+header {
+  position: absolute;
+width: 10000px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+background: #C1A40D;
+}
+
+.estudante {
+  position: absolute;
+width: 588px;
+height: 133px;
+left: 50px;
+top: -30px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 129px;
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+.informa {
+  position: absolute;
+width: 337px;
+height: 65px;
+left: 1050px;
+top: 20px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 65px;
+
+color: #000000;
+}
+
+.contato {
+  position: absolute;
+width: 286px;
+height: 58px;
+left: 1500px;
+top: 20px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 65px;
+
+color: #000000;
+}
