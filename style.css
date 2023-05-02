@@ -61,3 +61,96 @@ line-height: 65px;
 
 color: #000000;
 }
+
+.ana {
+  position: absolute;
+width: 342px;
+height: 331px;
+left: 110px;
+top: 261px;
+
+background: url(ana.jpg);
+}
+
+.informaçoes {
+  position: absolute;
+width: 807px;
+height: 260px;
+left: 543px;
+top: 250px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 65px;
+
+color: #000000;
+}
+
+.informaçoes2 {
+  position: absolute;
+width: 1897px;
+height: 249px;
+left: 223px;
+top: 700px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+
+color: #000000;
+}
+
+footer {
+  position: absolute;
+width: 10000px;
+height: 217px;
+left: 0px;
+top: 1000px;
+
+background: #C1A40D;
+}
+
+.perfil {
+  position: absolute;
+width: 999px;
+height: 159px;
+left: 39px;
+top: -20px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 65px;
+
+color: #000000;
+
+}
+
+.face {
+  position: absolute;
+width: 133.31px;
+height: 125px;
+top: 50px;
+left: 1000px;
+}
+
+.insta {
+  position: absolute;
+width: 133.31px;
+height: 133.31px;
+top: 50px;
+left: 1300px;
+}
+
+.twitter {
+  position: absolute;
+width: 133.31px;
+height: 133.31px;
+top: 50px;
+left: 1600px;
+}
